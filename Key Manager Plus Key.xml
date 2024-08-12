@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Key Manager Plus Demo" EmailID=" crackmanageengine@gmail.com" ExpiryDate="2025-04-01" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TufJQdP3XG7KSlcfXSbKzJPfGSNT7JPyTQTT7fpy7a7czJR9VSaTdZJbG71adlc3pQal7KJPXATxlndP7uNTddJSy7uDPfpG7xbTpf1Q39bxQndayuuDdfVXT9zlp" LicenseType="Registered" Name="Key Manager Plus Demo">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="ManageEngine Key Manager Plus" Type="Standard" Version="2.0.0"/>
+      <Component Name="Keymanager">
+         <Properties Name="NumberOfKeys" Value="500"/>
+      </Component>
+      <Component Name="Users">
+         <Properties Name="LocalizedPMP" Value="true"/>
+		 <Properties Name="admin" Value="10"/>
+         <Properties Name="resource" Value="100"/>
+         <Properties Name="organization" Value="500"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>005Nj84X98NXiRj001vYRKjsvR01N8mGXvKR4pMpGv98LXYjlsRvsw005skvzFORvQmKnRviXNXmkvzGRXGNX4oGRXGNX4o0I0IWsKLpsRviXNXMskvzsvN8iNgviXNXMdjdj</LicenseKey>
+</License>
